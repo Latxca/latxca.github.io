@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="FNeUzJ5ovoIEIArxoQESilUn_ql1SL1yriR1Dvo2Z_4" />
     <title>Trist's YouTube Client</title>
     <!-- Tailwind CSS CDN for styling -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -78,7 +79,7 @@
             <h1 class="text-5xl font-extrabold text-gray-900 mb-4">Trist's YouTube Client</h1>
             <p class="text-gray-600 text-lg mb-4">Search and browse YouTube content.</p>
             <a href="https://www.youtube.com/@LAtxca" target="_blank" class="inline-flex items-center px-4 py-2 bg-red-600 text-white font-medium rounded-full hover:bg-red-700 transition">
-                <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0[...]
                 Visit @LAtxca Channel
             </a>
         </header>
@@ -93,7 +94,7 @@
             />
             <button
                 id="search-button"
-                class="w-full sm:w-auto px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition duration-200 ease-in-out text-lg flex items-center justify-center"
+                class="w-full sm:w-auto px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 tr[...]
             >
                 <span id="search-button-text">Search</span>
                 <div id="loading-spinner" class="spinner ml-2 hidden"></div>
